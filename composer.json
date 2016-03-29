@@ -1,19 +1,28 @@
 {
-    "name": "draperstudio/laravel-chartjs",
+    "name": "fsicurezza/laravel-chartjs",
     "type": "library",
     "description": "ChartJS Integration with a Fluent Builder for Laravel 5",
     "keywords": [
         "draperstudio",
+        "fsicurezza",
         "laravel-chartjs"
     ],
-    "homepage": "https://github.com/DraperStudio/laravel-chartjs",
+    "homepage": "https://github.com/fsicurezza/laravel-chartjs",
     "license": "MIT",
-    "authors": [{
+    "authors": [
+        {
         "name": "DraperStudio",
         "email": "hello@draperstudio.tech",
         "homepage": "http://draperstudio.tech",
         "role": "Developer"
-    }],
+        },
+        {
+            "name": "Fulvio Sicurezza",
+            "email": "fsicurezza@gmail.com",
+            "homepage": "http://www.generalservice.na.it",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^5.6 || ^7.0",
         "draperstudio/laravel-service-provider": "^0.1"

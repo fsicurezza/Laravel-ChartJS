@@ -12,7 +12,7 @@
 Via Composer
 
 ``` bash
-$ composer require draperstudio/laravel-chartjs
+$ composer require fsicurezza/laravel-chartjs
 ```
 
 And then, if using Laravel 5, include the service provider within `app/config/app.php`.
